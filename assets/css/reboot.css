@@ -5,7 +5,16 @@
 
 html,body,ul,ol{
     margin: 0;
-    padding: 0;
+    padding: 0;    
+}
+
+body{
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+html{
+    background-color: #f1f1f1;
 }
 
 body{
@@ -34,7 +43,7 @@ figure{
     margin: 0;
 }
 
-@media screen and (max-width: 1024px) {
+/* @media screen and (max-width: 1024px) {
     img{
         display: block;
         max-width: 100%;
@@ -43,4 +52,4 @@ figure{
     section{
         text-align: center;
     }
-}
+} */

@@ -1,4 +1,15 @@
 /*@Container*/
+body{
+    position: relative;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    padding: 0;
+    margin: 0;
+    cursor: none;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
 
 .container{
     max-width: 1024px;
@@ -6,9 +17,11 @@
 }
 
 .container-large{
-    max-width: 1280px;
-    margin: 0 auto;
+    max-width: 1400px;
+    margin: 0 auto;    
 }
+
+
 
 /*@Columns*/
 
