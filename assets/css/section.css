@@ -137,6 +137,12 @@ main{
     background-color: #e7e7f2;
     border-top-left-radius: 20px;
     text-align: center;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
 }
 
 .port-site-item img{
