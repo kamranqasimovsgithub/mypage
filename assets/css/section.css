@@ -110,9 +110,8 @@ main{
     background: url('../image/bg-img-portfolio.jpg');    
     background-size: cover;
     background-position: center;
-    background-repeat: no-repeat;
-    height: 500px;
     background-attachment: fixed;
+    height: 500px;
 }
 
 
